@@ -1,7 +1,7 @@
 {
   "test": [
     {
-      "test_id": "a",
+      "id": "a",
       "questions": [
       {
         "id": 1,
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "test_id": "b",
+      "id": "b",
       "questions": [
       {
         "id": 4,
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "test_id": "c",
+      "id": "c",
       "questions": [
       {
         "id": 7,
