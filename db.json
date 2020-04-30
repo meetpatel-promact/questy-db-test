@@ -21,16 +21,33 @@
       "id": "b",
       "questions": [
       {
-        "id": 1,
+        "id": 4,
         "title": "what are classes in ES6 javascript?"
       },
       {
-        "id": 2,
+        "id": 5,
         "title": "Who is the father of computer science?"
       },
       {
-        "id": 3,
+        "id": 6,
         "title": "What are the characteristics of functional programming"
+      }
+      ]
+    },
+    {
+      "id": "c",
+      "questions": [
+      {
+        "id": 7,
+        "title": "what is a constructor function in javascript?"
+      },
+      {
+        "id": 8,
+        "title": "What are JavaScript Data Types?"
+      },
+      {
+        "id": 9,
+        "title": "What do ypu understand by JWT token?"
       }
       ]
     }
